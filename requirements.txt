@@ -1,0 +1,2 @@
+Minimum versio level Django==1.9.4
+Higher versions than the one mentioned above will be compatible
